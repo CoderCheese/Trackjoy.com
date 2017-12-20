@@ -1,3 +1,3 @@
 # Trackjoy.com
 A fitness program for the Guppy App challenge.
-Made by kids.
+Made by 2 sixth graders
